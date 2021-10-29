@@ -52,3 +52,38 @@ cookie文件加载成功
 
 
 
+2021-10-29 18:45:28.885324
+输入定位签到模式
+单人签到模式
+当前IP：52.255.196.142,
+
+ 美国弗吉尼亚州博伊顿Microsoft数据中心
+
+系统时间：2021-10-29 18:45:34
+UTC时间：2021-10-29 19:45:29
+北京时间：2021-10-30 02:45:29
+北京时间与系统时间误差：7:59:54.925793
+2021-10-29 18:45:34.074305:201820800123签到开始
+cookie文件存在
+cookie文件加载成功
+NAME桂鹏钧
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+定位 116.018746，29.67301，江西省九江市濂溪区前进东路881号
+{"status":0,"result":{"location":{"lng":116.0304215313763,"lat":29.6767229060613},"formatted_address":"江西省九江市濂溪区濂溪大道","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"九江市","city_level":2,"district":"濂溪区","town":"","town_code":"","adcode":"360402","street":"濂溪大道","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":349}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E4%B9%9D%E6%B1%9F%E5%B8%82&district=%E6%BF%82%E6%BA%AA%E5%8C%BA&street=%E5%89%8D%E8%BF%9B%E4%B8%9C%E8%B7%AF881%E5%8F%B7&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E4%B9%9D%E6%B1%9F%E5%B8%82%E6%BF%82%E6%BA%AA%E5%8C%BA%E5%89%8D%E8%BF%9B%E4%B8%9C%E8%B7%AF881%E5%8F%B7&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E4%B9%9D%E6%B1%9F%E5%B8%82&bdistrict=%E6%BF%82%E6%BA%AA%E5%8C%BA&bstreet=%E5%89%8D%E8%BF%9B%E4%B8%9C%E8%B7%AF881%E5%8F%B7&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E4%B9%9D%E6%B1%9F%E5%B8%82&sdistrict=%E6%BF%82%E6%BA%AA%E5%8C%BA&lng=116.018814&lat=29.672976&sfby=1
+NAME桂鹏钧
+定位 116.018814，29.672976，江西省九江市濂溪区前进东路881号
+{"status":0,"result":{"location":{"lng":116.03036151874345,"lat":29.676740805010309},"formatted_address":"江西省九江市濂溪区濂溪大道","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"九江市","city_level":2,"district":"濂溪区","town":"","town_code":"","adcode":"360402","street":"濂溪大道","street_number":"","direction":"","distance":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":349}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E4%B9%9D%E6%B1%9F%E5%B8%82&district=%E6%BF%82%E6%BA%AA%E5%8C%BA&street=%E5%89%8D%E8%BF%9B%E4%B8%9C%E8%B7%AF881%E5%8F%B7&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E4%B9%9D%E6%B1%9F%E5%B8%82%E6%BF%82%E6%BA%AA%E5%8C%BA%E5%89%8D%E8%BF%9B%E4%B8%9C%E8%B7%AF881%E5%8F%B7&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E4%B9%9D%E6%B1%9F%E5%B8%82&bdistrict=%E6%BF%82%E6%BA%AA%E5%8C%BA&bstreet=%E5%89%8D%E8%BF%9B%E4%B8%9C%E8%B7%AF881%E5%8F%B7&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E4%B9%9D%E6%B1%9F%E5%B8%82&sdistrict=%E6%BF%82%E6%BA%AA%E5%8C%BA&lng=116.018754&lat=29.672995&sfby=1
+签到成功
+2021-10-29 18:46:00.013508:201820800123签到结束
+桂鹏钧201820800123签到成功！
+2021-10-29 18:46:00.013549程序结束
+######################################################################
+
+
+
+
